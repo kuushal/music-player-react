@@ -1,4 +1,4 @@
-# A react music player did to practice props, states, useState.
+A react music player app did to practice props, states, useState.
 
 
 
