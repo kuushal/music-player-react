@@ -1,3 +1,7 @@
+# A react music player did to practice props, states, useState.
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
