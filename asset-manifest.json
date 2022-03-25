@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/music-player-react/static/css/main.891699f4.css",
+    "main.js": "/music-player-react/static/js/main.f36670ed.js",
+    "static/js/787.ded37e57.chunk.js": "/music-player-react/static/js/787.ded37e57.chunk.js",
+    "static/media/fa-solid-900.ttf": "/music-player-react/static/media/fa-solid-900.79da213423ac0def2058.ttf",
+    "static/media/fa-brands-400.ttf": "/music-player-react/static/media/fa-brands-400.0a1b701f5563c2288281.ttf",
+    "static/media/fa-solid-900.woff2": "/music-player-react/static/media/fa-solid-900.4896d4b04430cc3dfb06.woff2",
+    "static/media/fa-brands-400.woff2": "/music-player-react/static/media/fa-brands-400.f77bcc98bb7468c8b15a.woff2",
+    "index.html": "/music-player-react/index.html",
+    "main.891699f4.css.map": "/music-player-react/static/css/main.891699f4.css.map",
+    "main.f36670ed.js.map": "/music-player-react/static/js/main.f36670ed.js.map",
+    "787.ded37e57.chunk.js.map": "/music-player-react/static/js/787.ded37e57.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.891699f4.css",
+    "static/js/main.f36670ed.js"
+  ]
+}
